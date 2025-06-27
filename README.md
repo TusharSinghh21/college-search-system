@@ -35,6 +35,6 @@ It helps students explore IT and Management colleges across India through a cent
    - Use the built-in download button to export filtered data
 
 
-##Author
+#Author
 Tushar Singh — Internship Project for Cloud Counselage Pvt. Ltd.
 
